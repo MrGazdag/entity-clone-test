@@ -10,7 +10,6 @@ import dev.morphia.Morphia;
 import dev.morphia.query.experimental.filters.Filters;
 import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
-import org.junit.Assert;
 import org.junit.Test;
 
 import java.util.ArrayList;
